@@ -17,4 +17,4 @@ This week I need to spend some time to catch up on the readings. My quiz grades 
 
 # Pick-of-the-Week
 
-This is something that's not really CS related. There is a really cool organization out there that some of y'all may or may not be interested in. It's called World Wide Opportunities on Organic Farms or WWOOF. This organization allows you to travel to another country, where a host farm will house and feed you. In return you volunteer 6 hours a day and get to experience life and culture on an organic farm. If you're more curious about it, check this link out. http://wwoofinternational.org/how-it-works/ 
+This is something that's not really CS related. There is a really cool organization out there that some of y'all may or may not be interested in. It's called World Wide Opportunities on Organic Farms or WWOOF. This organization allows you to travel to another country, where a host farm will house and feed you. In return you volunteer 6 hours a day on their farm and get to experience life and culture on an organic farm in a new country. If you're more curious about it, check this link out. http://wwoofinternational.org/how-it-works/ 
