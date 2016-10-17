@@ -19,4 +19,4 @@ This week will consist of finishing up this Allocator project, and various homew
 
 There's all sorts of opinions on why C++ or JAVA is better. This class obviously zones in on C++ but in case you're interested in finding examples and tutorials on how to do some of the stuff we've done in this class in JAVA (such as overriding equals), this guy is the goat. He has a bunch of android, js, frameworks, spring and other tutorials. All fairly simple to follow. Check it out:
 
-www.mkyeong.com
+www.mkyong.com
