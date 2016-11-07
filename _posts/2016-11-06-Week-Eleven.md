@@ -21,5 +21,5 @@ Start Life project and get ahead in other classes!
 
 For most of us, recruiting season for this semester is dwindling down to an end. But I was browsing the web the other day and came across these interesting non-technical google interview questions. Give this a read and see how you do! (The answers are linked as well)
 
-Questions: { % link http://www.businessinsider.com/15-google-interview-questions-that-will-make-you-feel-stupid-2010-11 %}
-Andswers: { % link http://www.businessinsider.com/answers-to-15-google-interview-questions-that-will-make-you-feel-stupid-2010-11 %}
+Questions: http://www.businessinsider.com/15-google-interview-questions-that-will-make-you-feel-stupid-2010-11
+Andswers: http://www.businessinsider.com/answers-to-15-google-interview-questions-that-will-make-you-feel-stupid-2010-11
